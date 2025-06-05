@@ -1,18 +1,18 @@
-# 📦 Proyecto: Pondering Pond
+# Pondering Pond
 Autor: Carlos Rocamora Colomer (crc89)
 Plataforma: Meta Quest 3
 Motor: Unreal Engine 5.4.4
 Duración de la experiencia: 2–4 minutos
 
-## 🎮 Descripción de la experiencia
+## Descripción de la experiencia
 Pondering Pond es una experiencia inmersiva de realidad virtual desarrollada para Meta Quest 3, en la que el jugador puede relajarse y concentrarse en sus pensamientos o pescar peces globo que flotan a su alrededor.
 
-## 🕹️ Cómo jugar / Controles
+## Cómo jugar / Controles
 A continuación se detallan los controles básicos para interactuar dentro del juego. Se recomienda jugar sentado o de pie, en una zona despejada.
 ![Controles](https://github.com/user-attachments/assets/26b72b5f-4199-4293-9565-33d2aa71ac53)
 
 
-## 📜 Licencias
+## Licencias
 Los siguientes assets de terceros han sido utilizados bajo sus respectivas licencias:
 
 - Nombre del asset: Emerald Forest - Chill Music for Relaxation Sleep and Meditation
@@ -30,11 +30,11 @@ Los siguientes assets de terceros han sido utilizados bajo sus respectivas licen
 
 
 
-# 🎤 Entrevista
-## 🛠️ Proceso de creación
+# Entrevista
+## Proceso de creación
 Durante el desarrollo de esta experiencia VR me enfoqué en la implementación de una mecánica realista de una caña de pescar basada en físicas, la cual fue desarrollada usando como base del equipable el arma de la plantilla VR de Unreal Engine, pero fue modificada en gran medida y se le añadieron todo los extras como la forma visual, el hilo que une el cuerpo con el corcho, y el propio corcho el cual limita su distancia con la punta de la caña mediante un Physics Constraint y esa fue la parte más complicada de ejecutar, ya que hubo muchis problemas con la jerarquía de componentes, la herencia de movimientos físicos entre los cuerpos y el control desafiante pero simple de la inercia y me aseguré de hacer una prueba técnica en las Meta Quest 3 para asegurar que el rendimiento fuera aceptable.
 
-## 🔮 Siguientes pasos
+## Siguientes pasos
 Con más tiempo me gustaría:
 
 - Añadir un sistema de progresión como una tienda de mejoras para aumentar la rejugabilidad.
