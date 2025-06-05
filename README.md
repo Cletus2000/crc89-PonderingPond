@@ -16,7 +16,7 @@ A continuación se detallan los controles básicos para interactuar dentro del j
 Los siguientes assets de terceros han sido utilizados bajo sus respectivas licencias:
 
 - Nombre del asset: Emerald Forest - Chill Music for Relaxation Sleep and Meditation
-  - Ruta en proyecto: /Project/Content/Audio
+  - Ruta en proyecto: /Project/Content
   - Fuente: [Julius H.]() from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=5536)
 
 - Nombre del asset: PICO OpenXR (Plugin usado para testear el juego en unas gafas PICO 4)
