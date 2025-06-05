@@ -9,6 +9,7 @@ Pondering Pond es una experiencia inmersiva de realidad virtual desarrollada par
 
 ## Cómo jugar / Controles
 A continuación se detallan los controles básicos para interactuar dentro del juego. Se recomienda jugar sentado o de pie, en una zona despejada.
+
 ![Controles](https://github.com/user-attachments/assets/26b72b5f-4199-4293-9565-33d2aa71ac53)
 
 
