@@ -1,8 +1,8 @@
 # Pondering Pond
-Autor: Carlos Rocamora Colomer (crc89)
-Plataforma: Meta Quest 3
-Motor: Unreal Engine 5.4.4
-Duración de la experiencia: 2–4 minutos
+- Autor: Carlos Rocamora Colomer (crc89)
+- Plataforma: Meta Quest 3
+- Motor: Unreal Engine 5.4.4
+- Duración de la experiencia: 2–4 minutos
 
 ## Descripción de la experiencia
 Pondering Pond es una experiencia inmersiva de realidad virtual desarrollada para Meta Quest 3, en la que el jugador puede relajarse y concentrarse en sus pensamientos o pescar peces globo que flotan a su alrededor.
