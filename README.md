@@ -15,18 +15,18 @@ A continuación se detallan los controles básicos para interactuar dentro del j
 ## 📜 Licencias
 Los siguientes assets de terceros han sido utilizados bajo sus respectivas licencias:
 
-    Nombre del asset: Emerald Forest - Chill Music for Relaxation Sleep and Meditation
-    Ruta en proyecto: /Project/Content/Audio
-    Fuente: [Julius H.]() from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=5536)
+- Nombre del asset: Emerald Forest - Chill Music for Relaxation Sleep and Meditation
+  - Ruta en proyecto: /Project/Content/Audio
+  - Fuente: [Julius H.]() from [Pixabay](https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=music&utm_content=5536)
 
-    Nombre del asset: PICO OpenXR (Plugin usado para testear el juego en unas gafas PICO 4)
-    Fuente: https://www.fab.com/es-es/listings/a7eb0f28-d7f1-4b30-8d2d-49d12eeb1d62
+- Nombre del asset: PICO OpenXR (Plugin usado para testear el juego en unas gafas PICO 4)
+  - Fuente: https://www.fab.com/es-es/listings/a7eb0f28-d7f1-4b30-8d2d-49d12eeb1d62
 
-    Nombre del asset: VR UE5 Template
-    Fuente: Epic Games
+- Nombre del asset: VR UE5 Template
+  - Fuente: Epic Games
 
-    Nombre del asset: Logo PonderingPond
-    Fuente: Generado con ChatGPT
+- Nombre del asset: Logo PonderingPond
+  - Fuente: Generado con ChatGPT
 
 
 
@@ -37,10 +37,10 @@ Durante el desarrollo de esta experiencia VR me enfoqué en la implementación d
 ## 🔮 Siguientes pasos
 Con más tiempo me gustaría:
 
-    Añadir un sistema de progresión como una tienda de mejoras para aumentar la rejugabilidad.
+- Añadir un sistema de progresión como una tienda de mejoras para aumentar la rejugabilidad.
 
-    Incorporar más tipos de interacción física como coger los peces de la punta de la caña y dejarlos en un cubo
+- Incorporar más tipos de interacción física como coger los peces de la punta de la caña y dejarlos en un cubo
     
-    Añadir entornos variados y más complejos.
+- Añadir entornos variados y más complejos.
 
-    Mejorar la ambientación sonora con efectos de audio.
+- Mejorar la ambientación sonora con efectos de audio.
