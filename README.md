@@ -31,7 +31,7 @@ Los siguientes assets de terceros han sido utilizados bajo sus respectivas licen
 
 
 # 🎤 Entrevista
-##🛠️ Proceso de creación
+## 🛠️ Proceso de creación
 Durante el desarrollo de esta experiencia VR me enfoqué en la implementación de una mecánica realista de una caña de pescar basada en físicas, la cual fue desarrollada usando como base del equipable el arma de la plantilla VR de Unreal Engine, pero fue modificada en gran medida y se le añadieron todo los extras como la forma visual, el hilo que une el cuerpo con el corcho, y el propio corcho el cual limita su distancia con la punta de la caña mediante un Physics Constraint y esa fue la parte más complicada de ejecutar, ya que hubo muchis problemas con la jerarquía de componentes, la herencia de movimientos físicos entre los cuerpos y el control desafiante pero simple de la inercia y me aseguré de hacer una prueba técnica en las Meta Quest 3 para asegurar que el rendimiento fuera aceptable.
 
 ## 🔮 Siguientes pasos
